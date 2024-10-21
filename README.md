@@ -6,8 +6,10 @@
 BV1Cr4y1J7iQ
 Introduction to Git
   VCS: version control system--help us to manage our coding
+  
   After downloading Git, open the second choice: Git Bash Here 控制台
   click program, options, text, select, Consolas
+  
   $ git config -- global user.name Eisa
   $ git config -- global user.email trump@bukaopu.com
 
@@ -48,6 +50,7 @@ Introduction to Git
 
   Summary: Git, download, clone, init, commit, checkout, 工作区，暂存区，仓库
   更多内容，看官方出品免费电子书：pro git
+  
   我的建议还是去好好玩几遍 https://learngitbranching.js.org/?locale=zh_CN git 游戏, 理解一下 git 的底层逻辑
   不然以后你碰到 git 问题真的挺恶心的. 如果你真的把版本控制弄的一团糟, https://ohshitgit.com/ 是你的解药.
     
